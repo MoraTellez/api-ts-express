@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2023-01-01",
+    "weather": "Sunny",
+    "visibility": "good",
+    "comment": "Beautiful day!"
+  },
+  {
+    "id": 2,
+    "date": "2023-02-15",
+    "weather": "Cloudy",
+    "visibility": "poor",
+    "comment": "Overcast skies."
+  },
+  {
+    "id": 3,
+    "date": "2023-04-05",
+    "weather": "Rainy",
+    "visibility": "good",
+    "comment": "Bring an umbrella!"
+  },
+  {
+    "id": 4,
+    "date": "2023-06-20",
+    "weather": "Partly Cloudy",
+    "visibility": "good",
+    "comment": "Mixed sunshine and clouds."
+  },
+  {
+    "id": 5,
+    "date": "2023-09-10",
+    "weather": "Clear",
+    "visibility": "good",
+    "comment": "Perfect visibility."
+  }
+]
